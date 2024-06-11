@@ -1,0 +1,7 @@
+bs4
+pyotp
+futures
+requests
+mechanize
+future
+stdiomask
